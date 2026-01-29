@@ -1,8 +1,3 @@
-# Databricks Bootcamp 2026
-
-Welcome to the **Databricks Data Lakehouse Project** by **Data With Baraa**.
-
-This repository contains a complete, real-world **Data Lakehouse implementation** built on Databricks, including datasets, notebooks, SQL examples, and exercises. 
 
 ---
 
