@@ -48,9 +48,6 @@ This project follows the **Medallion Architecture**:
 ## 🌍 Connect With Me
 
 [![Personal GitHub]( https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Deadpoollll-max)
-[![LinkedIn](https://www.linkedin.com/in/nithin-thomas-9aa064199/)
-
-
 
 ---
 
